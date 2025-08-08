@@ -16,7 +16,6 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# 📂 Dataset & model artifacts
 /data/
 *.csv
 *.json
